@@ -1,6 +1,6 @@
 alembic==1.8.1
 anyio==3.6.1
-apturl==0.5.2
+
 attrs==22.1.0
 bcrypt==3.1.7
 blinker==1.4
